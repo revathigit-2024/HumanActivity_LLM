@@ -43,7 +43,11 @@ This application uses Large Language Models (LLMs) to predict various health met
      BASE_MODEL=TinyLlama/TinyLlama-1.1B-Chat-v1.0
      DEVICE=cuda  # or mps for Mac, defaults to cpu
      ```
+## Datasets
 
+   1.PMData: https://datasets.simula.no/pmdata/
+   2.AW_FB: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZS2Z2J
+   
 ## Usage
 
 ### 1. Generate Training Data
