@@ -1,4 +1,4 @@
-# Health-LLM: AI-Powered Health Predictions from Wearable Sensor Data
+# Large Language Models for Human Activity Prediction Using Structured Data
 
 This application uses Large Language Models (LLMs) to predict various health metrics (fatigue, stress, readiness, and sleep quality) based on wearable sensor data. It supports multiple models including fine-tuned models, OpenAI GPT-3.5, and Google Gemini.
 
