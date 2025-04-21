@@ -45,9 +45,9 @@ This application uses Large Language Models (LLMs) to predict various health met
      ```
 ## Datasets
 
-   ### 1.PMData: https://datasets.simula.no/pmdata/
+  - 1.PMData: https://datasets.simula.no/pmdata/
    
-   ### 2.AW_FB: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZS2Z2J
+  - 2.AW_FB: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZS2Z2J
    
 ## Usage
 
@@ -73,6 +73,7 @@ The web interface provides:
 - Prediction type selection
 - Inference mode selection
 - Input field for sensor data
+  
 
 ### Example Input Format
 ```
